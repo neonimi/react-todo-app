@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+        "id": 1,
+        "content": "おかいもの",
+        "done": true
+    },
+    {
+        "id": 2,
+        "content": "病院にいく",
+        "done": false
+    },
+    {
+        "id": 3,
+        "content": "かたづけ",
+        "done": false
+    }
+  ]
+}
